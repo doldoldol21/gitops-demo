@@ -1,0 +1,3 @@
+rootProject.name = 'gitops-demo'
+include("user")
+include("task")
